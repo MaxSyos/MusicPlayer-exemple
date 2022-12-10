@@ -1,4 +1,6 @@
-# Project Lyrics
+# Project Lyriks
+
+![Spotify Clone](https://i.ibb.co/mFh2kGZ/Thumbnail-2.png)
 
 Develop an elegant React.js Music Application. 
 
